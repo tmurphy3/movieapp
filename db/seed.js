@@ -6,10 +6,19 @@ let filmData = require("./films.json");
 
 film
   .deleteMany({})
-  .then(film.create(filmData))
-  .then((filled) => console.log(filled));
-
-director
-  .deleteMany({})
-  .then(director.create(directorData))
-  .then((filled) => console.log(filled));
+  .then(() => director.deleteMany({}))
+  .then(() => director.create(directorData))
+  .then((directors) => {
+    let newFilmData = [];
+    directors.map((director) => {
+      filmData.map((film) => {
+        if (film.director == director.name) {
+          film.directorID = director._id;
+          newFilmData.push(film);
+        }
+      });
+      //console.log(director._id);
+      //console.log(director.name);
+    });
+    film.create(newFilmData).then((res) => console.log(res));
+  });

@@ -8,6 +8,7 @@ const filmSchema = new mongoose.Schema({
   cinematographer: String,
   still: String,
   poster: String,
+  directorID: String,
 });
 
 module.exports = mongoose.model("films", filmSchema);
