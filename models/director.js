@@ -8,7 +8,7 @@ const mongoose = require("../db/connection.js");
 
 const directorSchema = new mongoose.Schema({
   name: String,
-  directorId: Number,
+  image: String,
 });
 
 module.exports = mongoose.model("directors", directorSchema);
