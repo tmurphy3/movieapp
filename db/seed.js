@@ -13,7 +13,7 @@ film
     directors.map((director) => {
       filmData.map((film) => {
         if (film.director == director.name) {
-          film.directorID = director._id;
+          film.director = director._id;
           newFilmData.push(film);
         }
       });
