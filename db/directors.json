@@ -28,5 +28,26 @@
     "name": "Christopher Nolan",
     "films": [],
     "image": "https://i.guim.co.uk/img/media/5b1a11f2b74fabe7305dbdc24c8751fb238e72d1/0_319_3939_2363/master/3939.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=fe3a16d96665dcf8afc3fe09b2285a79"
+  },
+  {
+    "name": "Stanley Kubrick",
+    "dates": "July 26, 1928 - March 7, 1999",
+    "films": [],
+    "image": "https://i.imgur.com/jtIIDOe.jpg",
+    "bio": "Stanley Kubrick was an American film director, producer, screenwriter, and photographer. He is frequently cited as one of the greatest filmmakers in cinematic history. His films, which are mostly adaptations of novels or short stories, cover a wide range of genres, and are noted for their realism, dark humor, unique cinematography, extensive set designs, and evocative use of music."
+  },
+  {
+    "name": "Quentin Tarantino",
+    "dates": "",
+    "films": [],
+    "image": "https://i.imgur.com/cl1TZ6r.jpg",
+    "bio": "Quentin Tarantino is an American film director, screenwriter, producer, and actor. His films are characterized by nonlinear storylines, aestheticization of violence, extended scenes of dialogue, ensemble casts, references to popular culture and a wide variety of other films, soundtracks primarily containing songs and score pieces from the 1960s to the 1980s, alternate history, and features of neo-noir film."
+  },
+  {
+    "name": "Denis Villeneuve",
+    "dates": "",
+    "films": [],
+    "image": "https://i.imgur.com/nRXEjmh.jpg",
+    "bio": "Denis Villeneuve is a French Canadian film director, producer, and screenwriter. He is a four-time recipient of the Canadian Screen Award (formerly Genie Award) for Best Direction.  Internationally, he is known for directing several critically acclaimed films, such as the thriller films Prisoners (2013) and Sicario (2015), as well as the science fiction films Arrival (2016) and Blade Runner 2049 (2017).["
   }
 ]

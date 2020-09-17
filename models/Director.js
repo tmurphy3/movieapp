@@ -10,6 +10,7 @@ const directorSchema = new mongoose.Schema({
     required: true,
     default: null,
   },
+  bio: String,
 });
 
 module.exports = mongoose.model("directors", directorSchema);
