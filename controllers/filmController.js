@@ -1,7 +1,7 @@
-let films = require("../models/film.js");
+let Films = require("../models/film.js");
 
 module.exports = {
   all: (req, res) => {
-    films.find({}).then((all) => res.json(all));
+    Films.find({}).then((all) => res.json(all));
   },
 };
