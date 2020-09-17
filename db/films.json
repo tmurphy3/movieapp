@@ -16,5 +16,60 @@
     "cinematographer": "Wally Pfister",
     "still": "https://img1.looper.com/img/gallery/the-untold-truth-of-inception/intro-1588270731.jpg",
     "poster": "https://alternativemovieposters.com/wp-content/uploads/2013/09/inceptionbg.jpg"
+  },
+  {
+    "title": "A Brighter Summer Day",
+    "description": "Set in the early sixties in Taiwan, A Brighter Summer Day is based on the true story of a crime that rocked the nation. A film of both sprawling scope and tender intimacy, this novelistic, patiently observed epic centers on the gradual, inexorable fall of a young teenager (Chen Chang, in his first role) from innocence to juvenile delinquency, and is set against a simmering backdrop of restless youth, rock and roll, and political turmoil",
+    "releaseDate": 1991,
+    "director": "Edward Yang",
+    "cinematographer": "Chang Hui-kung, Li Long-yu",
+    "still": "https://s3.amazonaws.com/criterion-production/carousel-files/b5e1f0ed5a638efc89610d7b38551d73.jpeg",
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/91cweE1gp%2BL._SL1500_.jpg"
+  },
+  {
+    "title": "Taipei Story",
+    "description": "Edward Yang’s second feature is a mournful anatomy of a city caught between the past and the present. Made in collaboration with Yang’s fellow New Taiwan Cinema master Hou Hsiao-hsien,Taipei Story chronicles the growing estrangement between a washed-up baseball player (Hou, in a rare on-screen performance) working in his family’s textile business and his girlfriend (Tsai Chin), who clings to the upward mobility of her career in property development. As the couple’s dreams of marriage and emigration begin to unravel, Yang’s gaze illuminates the precariousness of domestic life and the desperation of Taiwan’s globalized modernity",
+    "releaseDate": 1985,
+    "director": "Edward Yang",
+    "cinematographer": "Wei-han Yang",
+    "still": "https://a.ltrbxd.com/resized/sm/upload/kl/xb/zm/6h/taipei-story-40-1200-1200-675-675-crop-000000.jpg?k=cdec7277d1",
+    "poster": "https://pics.filmaffinity.com/Taipei_Story-429158435-large.jpg"
+  },
+  {
+    "title": "Yi Yi",
+    "description": "The extraordinary, internationally embraced Yi Yi(A One and a Two . . .), directed by the late Taiwanese master Edward Yang, follows a middle-class family in Taipei over the course of one year, beginning with a wedding and ending with a funeral. Whether chronicling middle-age father NJ’s tentative flirtations with an old flame or precocious young son Yang-Yang’s attempts at capturing reality with his beloved camera, the filmmaker deftly imbues every gorgeous frame with a compassionate clarity. Warm, sprawling, and dazzling, this intimate epic is one of the undisputed masterworks of the new century.",
+    "releaseDate": 2000,
+    "director": "Edward Yang",
+    "cinematographer": "Wei-han Yang",
+    "still": "https://s01.sgp1.digitaloceanspaces.com/large/805346-article-bejibcpbiz-1458319560.jpeg",
+    "poster": "https://www.trigon-film.org/en/shop/Posters_A2/Yi_Yi/cover_full.jpg"
+  },
+
+  {
+    "title": "Ivan’s Childhood",
+    "description": "The debut feature by the great Andrei Tarkovsky, Ivan’s Childhoodis a poetic journey through the shards and shadows of one boy’s war-ravaged youth. Moving back and forth between the traumatic realities of World War II and serene moments of family life before the conflict began, Tarkovsky’s film remains one of the most jarring and unforgettable depictions of the impact of war on children.",
+    "releaseDate": 1962,
+    "director": "Andrei Tarkovsky",
+    "cinematographer": "Vadim Yusov",
+    "still": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/5919%20(1).jpg?bwg=1547131962",
+    "poster": "https://s3.amazonaws.com/criterion-production/films/a8e1617666d8e85943564eef5aacb531/u55rMWCWdkuqvOV1zUlJpcjcJ2eKZu_large.jpg"
+  },
+  {
+    "title": "Mirror",
+    "description": "A dying middle-aged man reminisces on his own life, in turn reflecting on the past half-century of Russian history. This autobiographical poem from Andrei Tarkovsky is a stunningly sensual odyssey through the halls of memory.",
+    "releaseDate": 1974,
+    "director": "Andrei Tarkovsky",
+    "cinematographer": "Georgi Rerberg",
+    "still": "https://i.pinimg.com/originals/ca/02/d9/ca02d9238c00da95bf47d2ffeaf464a2.png",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRiNDc0ZmMtZWVmNS00ZmRkLWEwNjQtODdmYTIyZGJjMjc5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR129,0,630,1200_AL_.jpg"
+  },
+  {
+    "title": "The Sacrifice",
+    "description": "A middle-aged intellectual attempts to bargain with God to stop an impending nuclear holocaust",
+    "releaseDate": 1986,
+    "director": "Andrei Tarkovsky",
+    "cinematographer": "Sven Nykvist",
+    "still": "https://i.pinimg.com/originals/ca/06/a2/ca06a2169bf83f60b9658ec6180b7cd7.jpg",
+    "poster": "https://img.moviepostershop.com/the-sacrifice-movie-poster-1986-1020435562.jpg"
   }
 ]
