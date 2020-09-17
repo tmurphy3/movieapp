@@ -13,10 +13,6 @@ app.use(cors());
 //enpoints
 app.get("/", (req, res) => res.send("M E R N O L I T H"));
 
-//endpoints
-
-app.get("/", (req, res) => res.send("welcome to the M E R N O L I T H"));
-
 //listen
 
 app.listen(port, console.log("server listening"));
