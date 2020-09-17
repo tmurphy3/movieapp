@@ -1,24 +1,19 @@
-let director = require("../models/director");
-let film = require("../models/film");
+let Director = require("../models/director");
+let Film = require("../models/film");
 
 let directorData = require("./directors.json");
 let filmData = require("./films.json");
 
-film
-  .deleteMany({})
-  .then(() => director.deleteMany({}))
-  .then(() => director.create(directorData))
-  .then((directors) => {
-    let newFilmData = [];
-    directors.map((director) => {
-      filmData.map((film) => {
+Director.deleteMany({})
+  .then(() => Film.deleteMany({}))
+  .then(() => Film.create(filmData))
+  .then((films) => {
+    films.map((film) => {
+      directorData.map((director) => {
         if (film.director == director.name) {
-          film.directorID = director._id;
-          newFilmData.push(film);
+          director.films.push(film._id);
         }
       });
-      //console.log(director._id);
-      //console.log(director.name);
     });
-    film.create(newFilmData).then((res) => console.log(res));
+    Director.create(directorData).then((directors) => console.log(directors));
   });
