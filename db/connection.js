@@ -3,8 +3,8 @@ const mongoose = require("mongoose");
 //let url = process.env.DB_URL;
 //console.log(process.env.DB_URL);
 
-let env = require("dotenv").config().parsed;
-let url = env.DB_URL;
+//let env = require("dotenv").config().parsed;
+//let url = env.DB_URL;
 
 mongoose.connect(url, {
   useNewUrlParser: true,
