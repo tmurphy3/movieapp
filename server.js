@@ -1,6 +1,6 @@
 // import
 const express = require("express");
-const filmRouter = require("./routes/filmRouter.js");
+//const filmRouter = require("./routes/filmRouter.js");
 const directorRouter = require("./routes/directorRouter.js");
 
 const cors = require("cors");
@@ -8,12 +8,11 @@ const cors = require("cors");
 
 //configure app
 const app = express();
-port = process.env.PORT || 9000;
 
 //middleware
 app.use(express.json());
 app.use(cors());
-app.use("/films", filmRouter);
+//app.use("/films", filmRouter);
 app.use("/directors", directorRouter);
 
 //enpoints
@@ -26,5 +25,6 @@ app.get("/directors", (req, res) => {
 });
 */
 //listen
+port = process.env.PORT || 9000;
 
 app.listen(port, console.log("server listening"));
