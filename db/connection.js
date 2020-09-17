@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
-require("dotenv").config().parsed;
 
-let url = process.env.DB_URL;
+let url =
+  "mongodb+srv://admin:WuhRCtKqxjGpy6ft@cluster0.6hbqc.mongodb.net/movies?retryWrites=true&w=majority";
 
 mongoose.connect(url, {
   useNewUrlParser: true,
