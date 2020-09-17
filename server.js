@@ -1,6 +1,6 @@
 // import
 const express = require("express");
-
+require("dotenv").config();
 //configure app
 const app = express();
 
