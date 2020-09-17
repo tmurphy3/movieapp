@@ -1,5 +1,5 @@
 const mongoose = require("../db/connection.js");
-const Film = require("./film");
+const Film = require("./Film");
 const { Schema } = require("../db/connection.js");
 
 const directorSchema = new mongoose.Schema({
