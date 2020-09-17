@@ -1,4 +1,4 @@
-let Directors = require("../models/director.js");
+let Directors = require("../models/Director");
 
 module.exports = {
   all: (req, res) => {

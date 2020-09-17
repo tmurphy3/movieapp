@@ -1,5 +1,5 @@
-let Director = require("../models/director");
-let Film = require("../models/film");
+let Director = require("../models/Director");
+let Film = require("../models/Film");
 
 let directorData = require("./directors.json");
 let filmData = require("./films.json");

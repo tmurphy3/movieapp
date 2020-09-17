@@ -1,4 +1,4 @@
-let Films = require("../models/film.js");
+let Films = require("../models/Film");
 
 module.exports = {
   all: (req, res) => {
