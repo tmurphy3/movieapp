@@ -1,6 +1,4 @@
 const mongoose = require("../db/connection.js");
-const { Schema } = require("../db/connection.js");
-const Director = require("./director");
 
 const filmSchema = new mongoose.Schema({
   title: String,
@@ -9,11 +7,7 @@ const filmSchema = new mongoose.Schema({
   cinematographer: String,
   still: String,
   poster: String,
-  director: {
-    type: [{ type: Schema.Types.ObjectID, ref: Director }],
-    required: true,
-    default: null,
-  },
+  director: String,
 });
 
 module.exports = mongoose.model("films", filmSchema);
