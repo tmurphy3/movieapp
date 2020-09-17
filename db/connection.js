@@ -1,9 +1,7 @@
 const mongoose = require("mongoose");
-let env = require("dotenv").config({ path: "../.env" }).parsed;
+require("dotenv").config().parsed;
 
-console.log(env.DB_URL);
-
-let url = env.DB_URL;
+let url = process.env.DB_URL;
 
 mongoose.connect(url, {
   useNewUrlParser: true,
