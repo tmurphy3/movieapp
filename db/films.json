@@ -71,5 +71,55 @@
     "cinematographer": "Sven Nykvist",
     "still": "https://i.pinimg.com/originals/ca/06/a2/ca06a2169bf83f60b9658ec6180b7cd7.jpg",
     "poster": "https://img.moviepostershop.com/the-sacrifice-movie-poster-1986-1020435562.jpg"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "description": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+    "releaseDate": 1968,
+    "director": "Stanley Kubrick",
+    "cinematographer": "Geoffrey Unsworth",
+    "still": "https://i.imgur.com/fPK6CHX.jpg",
+    "poster": "https://i.imgur.com/u7BBxCM.jpg",
+    "genres": ["adventure", "scifi", "surreal"]
+  },
+  {
+    "title": "A Clockwork Orange",
+    "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "releaseDate": 1971,
+    "director": "Stanley Kubrick",
+    "cinematographer": "John Alcott",
+    "still": "https://i.imgur.com/NlNCvzV.jpg",
+    "poster": "https://i.imgur.com/45QZqIG.jpg",
+    "genres": ["crime", "drama", "scifi"]
+  },
+  {
+    "title": "The Shining",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "releaseDate": 1980,
+    "director": "Stanley Kubrick",
+    "cinematographer": "John Alcott",
+    "still": "https://i.imgur.com/utEmDcb.png",
+    "poster": "https://i.imgur.com/f8Cs2Vc.jpg",
+    "genres": ["drama", "horror"]
+  },
+  {
+    "title": "Full Metal Jacket",
+    "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "releaseDate": 1987,
+    "director": "Stanley Kubrick",
+    "cinematographer": "Douglas Milsome",
+    "still": "https://i.imgur.com/w8vIjkE.jpg",
+    "poster": "https://i.imgur.com/m5y2Kma.jpg",
+    "genres": ["drama", "war"]
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "description": "A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.",
+    "releaseDate": 1999,
+    "director": "Stanley Kubrick",
+    "cinematographer": "Larry Smith",
+    "still": "https://i.imgur.com/9w8Mj8z.jpg",
+    "poster": "https://i.imgur.com/g4DPlC1.jpg",
+    "genres": ["drama", "mystery", "thriller"]
   }
 ]
