@@ -1,6 +1,8 @@
 // import
 const express = require("express");
-//require("dotenv").config();
+const filmRouter = require("./routes/filmRouter.js");
+const directorRouter = require("./routes/directorRouter.js");
+
 const cors = require("cors");
 ////const Directors = require("./models/director.js");
 
@@ -11,6 +13,8 @@ port = process.env.PORT || 9000;
 //middleware
 app.use(express.json());
 app.use(cors());
+app.use("/films", filmRouter);
+app.use("/directors", directorRouter);
 
 //enpoints
 app.get("/", (req, res) => res.send("M E R N O L I T H"));
