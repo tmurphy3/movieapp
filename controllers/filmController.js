@@ -14,4 +14,5 @@ module.exports = {
     Films.findOneAndDelete({ _id: req.params.id }).then((deleted) =>
       res.json(deleted)
     );
+  },
 };
