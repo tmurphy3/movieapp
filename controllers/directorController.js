@@ -10,7 +10,7 @@ module.exports = {
       .then((director) => res.json(director));
   },
   directorFilms: (req, res) => {
-    Directors.find({ _id: req.params.id }).then((director) =>
+    Directors.findOne({ _id: req.params.id }).then((director) =>
       res.json(director)
     );
   },
