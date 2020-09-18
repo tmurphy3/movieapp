@@ -4,9 +4,8 @@ const directorController = require("../controllers/directorController.js");
 
 router = express();
 
-router.get("/films", directorController.allFilms);
-router.get("/directors", directorController.allDirectors);
+router.get("/", directorController.all);
 //router.get("/:id", directorController.directorMovies);
-router.get("/directors/:id", directorController.directorFilms);
+router.get("/:id", directorController.directorFilms);
 
 module.exports = router;
