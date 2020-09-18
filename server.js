@@ -10,8 +10,8 @@ const app = express();
 //middleware
 app.use(express.json());
 app.use(cors());
-app.use("/", filmRouter);
-app.use("/", directorRouter);
+app.use("/films", filmRouter);
+app.use("/directors", directorRouter);
 
 //enpoints
 app.get("/", (req, res) => res.send("M E R N O L I T H"));
