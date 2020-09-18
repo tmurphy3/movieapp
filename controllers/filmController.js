@@ -15,4 +15,11 @@ module.exports = {
       res.json(deleted)
     );
   },
+  updateFilm: (req, res) => {
+    Films.findOneAndUpdate(
+      { _id: req.params.id },
+      { $set: req.body },
+      { new: true }
+    ).then((updated) => res.json(updated));
+  },
 };

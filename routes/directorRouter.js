@@ -9,5 +9,6 @@ router.get("/", directorController.all);
 router.get("/:id", directorController.directorFilms);
 router.post("/", directorController.createDirector);
 router.delete("/:id", directorController.deleteDirector);
+router.put("/:id", filmController.updateDirector);
 
 module.exports = router;
