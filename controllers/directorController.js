@@ -17,4 +17,9 @@ module.exports = {
   create: (req, res) => {
     Directors.create(req.body).then((director) => res.json(director));
   },
+  delete: (req, res) => {
+    Directors.findOneAndDelete({ _id: req.params.id }).then((deleted) =>
+      res.json(deleted)
+    );
+  },
 };
