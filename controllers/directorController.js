@@ -5,7 +5,7 @@ module.exports = {
     Directors.find({}).then((all) => res.json(all));
   },
   directorMovies: (req, res) => {
-    Directors.findOne({ id: req.params.id }).populate("Film"),
+    Directors.findOne({ _id: req.params.id }).populate("Film"),
       (err, doc) => {
         if (err) handleError(res, err.message, "failed to get director");
         res.status(200).json(doc);
