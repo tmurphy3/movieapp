@@ -7,6 +7,11 @@ module.exports = {
   directorMovies: (req, res) => {
     Directors.findOne({ _id: req.params.id })
       .populate("Film")
-      .then((films) => res.json(films));
+      .then((director) => res.json(director));
+  },
+  directorFilms: (req, res) => {
+    Directors.find({ _id: req.params.id }).then((director) =>
+      res.json(director)
+    );
   },
 };
