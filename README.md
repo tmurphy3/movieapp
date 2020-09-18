@@ -1,3 +1,3 @@
 # movieapp
 
-# deployed url: https://mernolith.herokuapp.com/
+# deployed url: https://mernolithv2.herokuapp.com

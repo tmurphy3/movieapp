@@ -18,6 +18,33 @@
     "poster": "https://i.imgur.com/sr0trYM.jpg"
   },
   {
+    "title": "Parasite",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "releaseDate": 2019,
+    "director": "Bong Joon-Ho",
+    "cinematographer": "Hong Kyung-pyo",
+    "still": "https://pyxis.nymag.com/v1/imgs/517/86b/f3dd02ac1f5f0cb2671452e722c5589f04-10-parasite-ending.rsocial.w1200.jpg",
+    "poster": "https://ih1.redbubble.net/image.1066991289.4365/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+    "releaseDate": 2008,
+    "director": "Christopher Nolan",
+    "cinematographer": "Wally Pfister",
+    "still": "https://i.ytimg.com/vi/A92uNurBizs/maxresdefault.jpg",
+    "poster": "https://lh3.googleusercontent.com/proxy/t6F5c-arteh9DdZJnXzxPuAfs_82ZHqoaFfy0PCOLOgaicakNPw8SAa3RTBLrXxjKGYTLeLRoIp30BZW4vguECjpIj3JfOW4CWbIT6X7CylH73qgD6cYbnURgpBj3eg"
+  },
+  {
+    "title": "The Prestige",
+    "description": "Period thriller set in Edwardian London where two rival magicians, partners until the tragic death of an assistant during a show, feud bitterly after one of them performs the ultimate magic trick - teleportation. His rival tries desperately to uncover the secret of his routine, experimenting with dangerous new science as his quest takes him to the brink of insanity and jeopardises the lives of everyone around the pair.",
+    "releaseDate": 2006,
+    "director": "Christopher Nolan",
+    "cinematographer": "Wally Pfister",
+    "still": "https://i.redd.it/mvm3imf6f5nx.jpg",
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/51406aslscL._AC_.jpg"
+  },
+  {
     "title": "A Brighter Summer Day",
     "description": "Set in the early sixties in Taiwan, A Brighter Summer Day is based on the true story of a crime that rocked the nation. A film of both sprawling scope and tender intimacy, this novelistic, patiently observed epic centers on the gradual, inexorable fall of a young teenager (Chen Chang, in his first role) from innocence to juvenile delinquency, and is set against a simmering backdrop of restless youth, rock and roll, and political turmoil",
     "releaseDate": 1991,
@@ -32,8 +59,13 @@
     "releaseDate": 1985,
     "director": "Edward Yang",
     "cinematographer": "Wei-han Yang",
+<<<<<<< HEAD
     "still": "https://i.imgur.com/KRLzsZR.jpg",
     "poster": "https://i.imgur.com/XwcxqG1.jpg"
+=======
+    "still": "https://a.ltrbxd.com/resized/sm/upload/kl/xb/zm/6h/taipei-story-40-1200-1200-675-675-crop-000000.jpg?k=cdec7277d1",
+    "poster": "https://www.jposter.net/images/products/b5-taipeistory.jpg"
+>>>>>>> 3b7e97a5ed242e596b461260ee9d07b0a938720a
   },
   {
     "title": "Yi Yi",
@@ -69,8 +101,40 @@
     "releaseDate": 1986,
     "director": "Andrei Tarkovsky",
     "cinematographer": "Sven Nykvist",
+<<<<<<< HEAD
     "still": "https://i.imgur.com/Ym11ICY.jpg",
     "poster": "https://i.imgur.com/egR5KG9.jpg"
+=======
+    "still": "https://i.pinimg.com/originals/ca/06/a2/ca06a2169bf83f60b9658ec6180b7cd7.jpg",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrRmKDAPOd5RhY0vp4JcFNIpbaWjp2nedUXg&usqp=CAU"
+  },
+  {
+    "title": "Harakiri",
+    "description": "Following the collapse of his clan, an unemployed samurai (Tatsuya Nakadai) arrives at the manor of Lord Iyi, begging to be allowed to commit ritual suicide on the property. Iyi’s clansmen, believing the desperate ronin is merely angling for a new position, try to force his hand and get him to eviscerate himself—but they have underestimated his beliefs and his personal brand of honor.",
+    "releaseDate": 1962,
+    "director": "Masaki Kobayashi",
+    "cinematographer": "Yoshio Miyajima",
+    "still": "https://m.media-amazon.com/images/M/MV5BMzcxMTdhYTEtOTY0Yy00NGU5LWI4NjctYzU3NjkyNzc5MmU4XkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_.jpg",
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/51MDZCr6U%2BL._AC_.jpg"
+  },
+  {
+    "title": "Kwaidan",
+    "description": "Featuring colorfully surreal sets and luminous cinematography, these haunting tales of demonic comeuppance and spiritual trials, adapted from writer Lafcadio Hearn’s collections of Japanese folklore, are existentially frightening and meticulously crafted.",
+    "releaseDate": 1965,
+    "director": "Masaki Kobayashi",
+    "cinematographer": "Yoshio Miyajima",
+    "still": "https://i.imgur.com/Q5F0gR5.jpg",
+    "poster": "https://ih1.redbubble.net/image.427467377.2399/flat,550x550,075,f.u6.jpg"
+  },
+  {
+    "title": "The Human Condition",
+    "description": "Originally filmed and released in three parts, the nine-and-a-half-hour The Human Condition (Ningen no joken), adapted from Junpei Gomikawa’s six-volume novel, tells of the journey of the well-intentioned yet naive Kaji (handsome Japanese superstar Tatsuya Nakadai) from labor camp supervisor to Imperial Army soldier to Soviet POW. Constantly trying to rise above a corrupt system, Kaji time and again finds his morals an impediment rather than an advantage. A raw indictment of its nation’s wartime mentality as well as a personal existential tragedy, Kobayashi’s riveting, gorgeously filmed epic is novelistic cinema at its best",
+    "releaseDate": 1959,
+    "director": "Masaki Kobayashi",
+    "cinematographer": "Yoshio Miyajima",
+    "still": "https://i.pinimg.com/originals/af/06/88/af06885dde339d638e2dbe4e35393100.jpg",
+    "poster": "https://i.pinimg.com/originals/10/72/48/1072482855de4f6aaf4145ce65da237c.jpg"
+>>>>>>> 3b7e97a5ed242e596b461260ee9d07b0a938720a
   },
   {
     "title": "2001: A Space Odyssey",
