@@ -6,7 +6,7 @@ router = express();
 
 router.get("/", filmController.all);
 router.get("/:id", filmController.oneFilm);
-router.post("/", directorController.createFilm);
-router.delete("/:id", directorController.deleteFilm);
+router.post("/", filmController.createFilm);
+router.delete("/:id", filmController.deleteFilm);
 
 module.exports = router;
