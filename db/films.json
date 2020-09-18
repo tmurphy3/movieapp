@@ -18,6 +18,33 @@
     "poster": "https://alternativemovieposters.com/wp-content/uploads/2013/09/inceptionbg.jpg"
   },
   {
+    "title": "Parasite",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "releaseDate": 2019,
+    "director": "Bong Joon-Ho",
+    "cinematographer": "Hong Kyung-pyo",
+    "still": "https://pyxis.nymag.com/v1/imgs/517/86b/f3dd02ac1f5f0cb2671452e722c5589f04-10-parasite-ending.rsocial.w1200.jpg",
+    "poster": "https://ih1.redbubble.net/image.1066991289.4365/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+    "releaseDate": 2008,
+    "director": "Christopher Nolan",
+    "cinematographer": "Wally Pfister",
+    "still": "https://i.ytimg.com/vi/A92uNurBizs/maxresdefault.jpg",
+    "poster": "https://lh3.googleusercontent.com/proxy/t6F5c-arteh9DdZJnXzxPuAfs_82ZHqoaFfy0PCOLOgaicakNPw8SAa3RTBLrXxjKGYTLeLRoIp30BZW4vguECjpIj3JfOW4CWbIT6X7CylH73qgD6cYbnURgpBj3eg"
+  },
+  {
+    "title": "The Prestige",
+    "description": "Period thriller set in Edwardian London where two rival magicians, partners until the tragic death of an assistant during a show, feud bitterly after one of them performs the ultimate magic trick - teleportation. His rival tries desperately to uncover the secret of his routine, experimenting with dangerous new science as his quest takes him to the brink of insanity and jeopardises the lives of everyone around the pair.",
+    "releaseDate": 2006,
+    "director": "Christopher Nolan",
+    "cinematographer": "Wally Pfister",
+    "still": "https://i.redd.it/mvm3imf6f5nx.jpg",
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/51406aslscL._AC_.jpg"
+  },
+  {
     "title": "A Brighter Summer Day",
     "description": "Set in the early sixties in Taiwan, A Brighter Summer Day is based on the true story of a crime that rocked the nation. A film of both sprawling scope and tender intimacy, this novelistic, patiently observed epic centers on the gradual, inexorable fall of a young teenager (Chen Chang, in his first role) from innocence to juvenile delinquency, and is set against a simmering backdrop of restless youth, rock and roll, and political turmoil",
     "releaseDate": 1991,
