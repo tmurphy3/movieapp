@@ -14,4 +14,7 @@ module.exports = {
       res.json(director)
     );
   },
+  create: (req, res) => {
+    Directors.create(req.body).then((director) => res.json(director));
+  },
 };
