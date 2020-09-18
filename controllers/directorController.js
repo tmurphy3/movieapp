@@ -14,10 +14,10 @@ module.exports = {
       res.json(director)
     );
   },
-  create: (req, res) => {
+  createDirector: (req, res) => {
     Directors.create(req.body).then((director) => res.json(director));
   },
-  delete: (req, res) => {
+  deleteDirector: (req, res) => {
     Directors.findOneAndDelete({ _id: req.params.id }).then((deleted) =>
       res.json(deleted)
     );

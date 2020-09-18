@@ -7,7 +7,7 @@ router = express();
 router.get("/", directorController.all);
 //router.get("/:id", directorController.directorMovies);
 router.get("/:id", directorController.directorFilms);
-router.post("/:id", directorController.create);
-router.delete("/:id", directorController.delete);
+router.post("/", directorController.createDirector);
+router.delete("/", directorController.deleteDirector);
 
 module.exports = router;
