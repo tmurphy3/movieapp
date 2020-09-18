@@ -1,12 +1,16 @@
 let Directors = require("../models/Director");
+let Films = require("../models/Film");
 
 module.exports = {
-  all: (req, res) => {
+  allDirectors: (req, res) => {
     Directors.find({}).then((all) => res.json(all));
+  },
+  allFilms: (req, res) => {
+    Films.find({}).then((all) => res.json(all));
   },
   directorMovies: (req, res) => {
     Directors.findOne({ _id: req.params.id })
-      .populate("Film")
+      .populate("Films")
       .then((director) => res.json(director));
   },
   directorFilms: (req, res) => {
